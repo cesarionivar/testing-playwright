@@ -1,0 +1,16 @@
+{
+  "name": "testing-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "types": "module",
+  "scripts": {
+    "start": "node app.mjs"
+  },
+  "keywords": [],
+  "author": "Cesario Nivar <ing.cesarionivar@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "^1.20.1"
+  }
+}
